@@ -30,4 +30,4 @@
 
 
 ### 똑비 개인정보 처리방침 전문
-- 바로가기: https://raw.githubusercontent.com/Rabbitoad/policies/refs/heads/main/ddokbi/privacy_opt.md
+- 바로가기: https://rabbitoad.github.io/policies/ddokbi/privacy_opt.md
