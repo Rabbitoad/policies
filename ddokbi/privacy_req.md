@@ -26,4 +26,4 @@
 개인정보 처리에 대해 정보주체는 언제든 동의를 거부할 권리가 있습니다. 단, 회원가입을 하실 수 없거나, 이미 회원가입을 하였더라도 회원 자격을 상실하거나 회사가 제공하는 서비스 중 일부는 이용하실 수 없습니다.
 
 ### 똑비 개인정보 처리방침 전문
-- 바로가기: [https://rabbitoad.github.io/policies/ddokbi/privacy_req.md](https://rabbitoad.github.io/policies/ddokbi/privacy_req.md)
+- 바로가기: [https://rabbitoad.github.io/policies/ddokbi/privacy_policy.html](https://rabbitoad.github.io/policies/ddokbi/privacy_policy.html)
